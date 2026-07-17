@@ -8,5 +8,6 @@ dependencies = [
     "aiogram>=3.29.1",
     "fastapi>=0.139.2",
     "magnum>=22.0.0",
+    "pydantic>=2.13.4",
     "uvicorn>=0.51.0",
 ]
